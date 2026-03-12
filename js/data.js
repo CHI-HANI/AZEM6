@@ -1,7 +1,7 @@
 /* ══════ STATE ══════ */
 /* ══════ SHARED API KEY — ضع مفتاح Groq المشترك هنا ══════ */
 /* ضع مفتاح Groq المشترك هنا — سيُستخدم لجميع المستخدمين */
-/* مثال: const SHARED_GROQ_KEY = 'gsk_xxxxxxxxxxxxxxxxxxxx'; */
+/* مثال: const SHARED_GROQ_KEY = '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'; */
 const SHARED_GROQ_KEY = ''; // ← ضع مفتاحك هنا
 
 let S = {
