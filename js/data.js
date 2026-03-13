@@ -1,8 +1,8 @@
 /* ══════ STATE ══════ */
 /* ══════ SHARED API KEY — ضع مفتاح Groq المشترك هنا ══════ */
 /* ضع مفتاح Groq المشترك هنا — سيُستخدم لجميع المستخدمين */
-/* مثال: const SHARED_GROQ_KEY = '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'; */
-const SHARED_GROQ_KEY = ''; // ← ضع مفتاحك هنا
+/* مثال: const SHARED_GROQ_KEY = ''; */
+const SHARED_GROQ_KEY = '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'; // ← ضع مفتاحك هنا
 
 let S = {
   currentDay:1, completedDays:[], calories:0, streak:0,
